@@ -4,10 +4,11 @@ import {
 } from 'react-native'
 
 var Variant = React.createClass({
+        /*
   propTypes: {
     name: PropTypes.string.isRequired,
     children: PropTypes.element.isRequired
-  },
+},*/
 
   render() {
     return this.props.children;

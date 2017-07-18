@@ -7,6 +7,7 @@ import {
 
 var Experiment = React.createClass({
 
+/*
   propTypes: {
     name: PropTypes.string.isRequired,
     children: ((props, propName) => {
@@ -23,7 +24,7 @@ var Experiment = React.createClass({
     choose: PropTypes.func,
     onChoice: PropTypes.func,
     onRawChoice: PropTypes.func
-  },
+},*/
 
   getDefaultProps() {
     return {
