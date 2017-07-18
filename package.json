@@ -4,7 +4,7 @@
     "type": "git",
     "url": "https://github.com/OnetapInc/react-native-ab-fixed"
   },
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A component for rendering A/B tests in React Native (updated from react-native-ab)",
   "main": "index.js",
   "author": "OnetapInc",
